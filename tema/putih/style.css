@@ -1,0 +1,270 @@
+/*Css3 Profile*/
+a:link, a:visited {
+color : #795169;
+text-decoration : none;
+}
+a:hover {
+color : #ce7e06;
+text-decoration : none;
+}
+input, textarea, select {
+background-image : url(images/menu.gif);
+background-color : #fff;
+background-repeat : repeat-x;
+background-position : 50% top;
+color : #6d6d6d;
+margin-right : 1px;
+margin-bottom : 1px;
+padding : 1px 4px;
+border : 1px solid #d3cabd;
+}
+input:hover, textarea:hover, select:hover {
+background-image : url(images/menu.gif);
+background-color : #eae4e7;
+background-repeat : repeat-x;
+background-position : 50% bottom;
+color : #755168;
+margin-right : 1px;
+padding : 1px 4px;
+border : 1px solid #d3cabd;
+}
+input:focus, textarea:focus, select:focus {
+background-image : url(images/menu.gif);
+background-color : #fff;
+background-repeat : repeat-x;
+background-position : 50% top;
+color : #755168;
+margin-right : 1px;
+padding : 1px 4px;
+border : 1px solid #b19aa8;
+}
+body {
+color : brown;
+font-size : 12px;
+font-family : Tahoma;
+background-color : #ffefcd;
+margin : 0;
+padding : 0;
+border : 1px solid #ffefcd;
+}
+form {
+margin : 0;
+padding : 0;
+}
+h3 {
+margin : 0;
+padding : 0;
+padding-bottom : 2px;
+}
+hr {
+margin-top : 2px;
+margin-bottom : 2px;
+border-top : 1px solid #e3e3e3;
+border-right-style : none;
+border-right-width : 0;
+border-bottom-style : none;
+border-bottom-width : 0;
+border-left-style : none;
+border-left-width : 0;
+}
+p {
+margin-top : 6px;
+margin-bottom : 6px;
+}
+ul {
+margin : 0;
+padding-left : 20px;
+}
+.iblock1, .mblock, .hdr {
+background-image : url(images/bmenu.gif);
+background-color : #4c494e;
+background-repeat : repeat-x;
+background-position : 50% top;
+color : #fffaee;
+text-shadow : #4f4f4f 1px 1px 1px;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #686666;
+}
+.iblock1 a, .mblock a, .hdr a {
+color : #fffaee;
+border-bottom : 1px dotted #b1a485;
+}
+.iblock1 a:hover, .mblock a:hover, .hdr a:hover {
+color : #f0e4c9;
+border-bottom : 1px dotted #d7ccb4;
+}
+.clip {
+color : #7e4a6a;
+border : 1px solid #ecdcae;
+font-size : x-small;
+background-color : #fdfbf5;
+padding : 4px 4px 8px;
+}
+.end {
+text-align : center;
+}
+.func {
+border-left : 4px solid #e8930d;
+color : #757575;
+font-size : x-small;
+margin-top : 4px;
+margin-left : 2px;
+padding-left : 4px;
+}
+.row1, .mainzag1, .aut {
+background-image : url(images/gmenu.gif);
+background-color : #f5eacc;
+background-repeat : repeat-x;
+background-position : 50% top;
+color : #c2790a;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #e4c686;
+}
+.gmenu a {
+color : #c2790a;
+border-bottom : 1px dotted #dfcea1;
+}
+.gmenu a:hover {
+color : #c24c0a;
+border-bottom : 1px dotted #ac592a;
+}
+.gray {
+color : #a895a0;
+}
+.green {
+color : #66bd00;
+}
+.header, .footer, .title {
+background-image : url(images/header.gif);
+color : #ff0000;
+background-color : #462739;
+background-repeat : repeat-x;
+background-position : 50% top;
+margin-bottom : 1px;
+padding : 2px;
+border-top : 1px solid #5b364c;
+border-bottom : 1px solid #5b364c;
+}
+.footer a {
+color : #fbf3de;
+text-decoration : none;
+border-bottom : 1px dotted #c19cb3;
+}
+.footer a:hover {
+color : #dbc9d4;
+text-decoration : none;
+border-bottom : 1px dotted #c6b6c0;
+}
+.left {
+float : left;
+}
+.list1, .b {
+background-color : #fff8e3;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #f0e1b9;
+}
+.list2, .c {
+background-color : #fffdf4;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #f0e1b9;
+}
+.maintxt {
+background-color : #fffef8;
+margin : 1px;
+padding-right : 1px;
+padding-left : 1px;
+border : 1px solid #d4cbbd;
+}
+.row, .mainzag, .iblock, .menu {
+background-image : url(images/menu.gif);
+background-color : #fff;
+background-repeat : repeat-x;
+background-position : 50% top;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 1px;
+border : 1px solid #d3cabd;
+}
+.phpcode {
+color : #978d7a;
+background-color : #fffff8;
+border : 1px dotted;
+margin-top : 4px;
+padding : 0 2px;
+}
+.quote {
+border-left : 4px solid #c1c1c1;
+color : #878787;
+font-size : x-small;
+padding : 2px 0 2px 4px;
+margin-left : 2px;
+}
+.red, .red a:link, .red a:visited {
+color : #ff0a00;
+}
+.reply {
+border-left : 4px solid #603c51;
+color : #9b3a73;
+padding : 2px 0 2px 4px;
+}
+.rmenu, .alarm, .p_t {
+background-image : url(images/rmenu.gif);
+background-color : #e4c5c5;
+background-repeat : repeat-x;
+background-position : 50% top;
+color : #a44747;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #e9b5b5;
+}
+.status {
+color : #7e4868;
+font-weight : bold;
+font-size : x-small;
+padding-left : 0;
+}
+.sub {
+border-top : 1px dotted #b5a3ad;
+font-size : x-small;
+margin-top : 4px;
+}
+.sub a:link, .sub a:visited {
+text-decoration : none;
+}
+.tmn, .fmenu, .menu_razd {
+background-image : url(images/tmn.gif);
+background-color : #e28b08;
+background-repeat : repeat-x;
+background-position : 50% top;
+color : #52462b;
+text-shadow : #f4d68c 1px 1px 1px;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border-top : 1px solid #7a7978;
+border-bottom : 1px solid #7a7978;
+}
+.tmn a:link, .tmn a:visited {
+color : #52462b;
+text-decoration : none;
+border-bottom : 1px dotted #ffd793;
+}
+.tmn a:hover {
+color : #a45182;
+border-bottom : 1px dotted #82536f;
+}
+.add {..}
+.add a:link {..}
+.add img {width:60px;height:10px;}
+/*Design by Mad
+http://wapdiz.ru
+Icq: 872-794*/

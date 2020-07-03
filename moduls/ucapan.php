@@ -1,0 +1,30 @@
+<?php
+$rx = gmdate("H",time()+7*3600);
+$rx = str_replace("01","Selamat Dini Hari ",$rx);
+$rx = str_replace("02","Selamat Dini Hari ",$rx);
+$rx = str_replace("03","Selamat Dini Hari ",$rx);
+$rx = str_replace("04","Selamat Dini Hari ",$rx);
+$rx = str_replace("05","Selamat Pagi ",$rx);
+$rx = str_replace("06","Selamat Pagi ",$rx);
+$rx = str_replace("07","Selamat Pagi ",$rx);
+$rx = str_replace("08","Selamat Pagi ",$rx);
+$rx = str_replace("09","Selamat Pagi ",$rx);
+$rx = str_replace("10","Selamat Jelang Siang ",$rx);
+$rx = str_replace("10","Selamat Jelang Siang ",$rx);
+$rx = str_replace("11","Selamat Siang ",$rx);
+$rx = str_replace("12","Selamat Siang ",$rx);
+$rx = str_replace("13","Selamat Siang ",$rx);
+$rx = str_replace("14","Selamat Siang ",$rx);
+$rx = str_replace("15","Selamat Sore ",$rx);
+$rx = str_replace("16","Selamat Sore ",$rx);
+$rx = str_replace("17","Selamat Petang ",$rx);
+$rx = str_replace("18","Selamat Petang ",$rx);
+$rx = str_replace("19","Selamat Malam ",$rx);
+$rx = str_replace("20","Selamat Malam ",$rx);
+$rx = str_replace("21","Selamat Malam ",$rx);
+$rx = str_replace("22","Selamat Malam ",$rx);
+$rx = str_replace("23","Selamat Malam ",$rx);
+$rx = str_replace("24","Selamat Malam ",$rx);
+$rx = str_replace("00","Selamat Malam ",$rx);
+print("$rx");
+?>

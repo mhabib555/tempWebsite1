@@ -1,0 +1,16 @@
+<Files cfg.php>
+order deny,allow
+deny from all
+</Files>
+<Files main.php>
+order deny,allow
+deny from all
+</Files>
+<Files last.php>
+order deny,allow
+deny from all
+</Files>
+<Files *.dat>
+order deny,allow
+deny from all
+</Files>

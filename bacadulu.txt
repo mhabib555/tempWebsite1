@@ -1,0 +1,12 @@
+script ini bukanlah buatan kami,kami hanyalah mengedit sesuai selera saya,
+cara pakai upload atau import di root hosting kamu terus extrak,udah beres dan script ini 
+tidak menggunakan database, pasword 12345 silahkan ganti di admin login,dan pasword itu berpungsi di semua panel yg ada di wap,kusus menu download ,membuat folder2 atw menhapus folder dan file hanya bisa dilakukan di wapftp atw yang sejenisnya,tapi untuk menambah file bisa dilakukan di panel download,ada 2 cara import dan upload, jangan bosan bosan untuk main ke wap kami
+trima kasih, 
+
+faozan site
+
+http://faozan.co.gp
+
+ade site
+
+http://seupang.co.cc

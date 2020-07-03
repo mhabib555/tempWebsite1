@@ -1,0 +1,5 @@
+order allow,deny
+deny from all
+
+AddDefaultCharset UTF-8
+php_flag register_globals Off
